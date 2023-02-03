@@ -1,8 +1,13 @@
 ### Hola, soy Maximiliano 👋
 
-- 🙋‍♂️Soy un desarrollador de software full stack, con formación academica y autodidacta, que tiene un gran interes y pasion por el mundo de la tecnologia.
-- Considero tener muy buena capacidad para trabajar en equipo, y para resolver problemas bajo presion.
-- Actualmente estoy en el ultimo año de la carrera "**Tecnicatura Universitaria en Programación**" y estoy terminando un BootCamp **Full Stack en Javascript**.
+- 🙋‍♂️ Soy un desarrollador de software full stack, con formación académica y autodidacta, que tiene un gran interés y pasión por el mundo de la tecnología.
+- 👯 Considero tener muy buena capacidad para trabajar en equipo, y para resolver problemas bajo presión.
+- 🌱 Actualmente estoy en el ultimo año de la carrera "**Tecnicatura Universitaria en Programación**" y estoy terminando un BootCamp **Full Stack en Javascript**.
+
+## Tengo conocimiento en:
+
+<img alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 
 <!--
 **VictorM-Herrera/VictorM-Herrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
