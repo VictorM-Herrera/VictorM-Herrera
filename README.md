@@ -28,7 +28,7 @@
 
 Portfolio: (Coming soon)
 
-Correo: [victormherrerac14@gmail.com]
+Correo: victormherrerac14@gmail.com
 
 Linkedin: [Victor Maximiliano Herrera](https://www.linkedin.com/in/victor-maximiliano-herrera/)
 
