@@ -2,7 +2,8 @@
 
 - 🙋‍♂️ Soy un desarrollador de software full stack, con formación académica y autodidacta, que tiene un gran interés y pasión por el mundo de la tecnología.
 - 👯 Considero tener muy buena capacidad para trabajar en equipo, y para resolver problemas bajo presión.
-- 🌱 Actualmente estoy en el ultimo año de la carrera "**Tecnicatura Universitaria en Programación**" y estoy terminando un BootCamp **Full Stack en Javascript**.
+- 🌱 Actualmente estoy en el ultimo año de la carrera "**Tecnicatura Universitaria en Programación**" y complete un BootCamp **Full Stack en Javascript**.
+- 💼 Poseo experiencia laboral como **Desarrollador Front-End Jr** en **Universidad FASTA**
 
 ## Tengo conocimiento en:
 
