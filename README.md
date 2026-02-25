@@ -30,7 +30,7 @@
 
 ## 📫 Contacto:
 
-Portfolio: [Victor M Herrera](victor-herrera.vercel.app)
+Portfolio: [Victor M. Herrera](https://victor-herrera.vercel.app/)
 
 Correo: victormherrerac14@gmail.com
 
